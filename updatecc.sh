@@ -1,0 +1,1 @@
+docker exec -it cli scripts/updatecc.sh 2

@@ -4,3 +4,4 @@
 /ledgers-backup
 /channel-artifacts/*.json
 /connection-*.*
+/chaincode/*/vendor
